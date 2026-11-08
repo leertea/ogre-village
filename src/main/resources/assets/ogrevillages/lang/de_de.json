@@ -1,0 +1,13 @@
+{
+  "entity.ogrevillages.ogre": "Oger",
+  "entity.ogrevillages.kijin": "Kijin",
+  "entity.ogrevillages.enlightened_ogre": "Erleuchteter Oger",
+  "entity.ogrevillages.mystic_oni": "Mystic Oni",
+  "entity.ogrevillages.wicked_oni": "Wicked Oni",
+  "entity.ogrevillages.spirit_oni": "Spirit Oni",
+  "entity.ogrevillages.death_oni": "Death Oni",
+  "entity.ogrevillages.divine_oni": "Divine Oni",
+  "entity.ogrevillages.divine_fighter": "Divine Fighter",
+  "item.ogrevillages.ogre_spawn_egg": "Oger-Spawn-Ei",
+  "message.ogrevillages.evolved": "%s hat sich zu %s entwickelt!"
+}

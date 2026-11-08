@@ -1,0 +1,7 @@
+{
+  "type": "ogrevillages:ogre_village",
+  "biomes": "#ogrevillages:has_structure/ogre_village",
+  "step": "surface_structures",
+  "terrain_adaptation": "none",
+  "spawn_overrides": {}
+}
