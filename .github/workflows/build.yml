@@ -25,11 +25,12 @@ jobs:
 
       - name: Set up Gradle
         uses: gradle/actions/setup-gradle@v4
-
+        with:
+          gradle-version: 8.10.2
+            
       - name: Build jar
         run: |
-          chmod +x gradlew
-          ./gradlew build --no-daemon
+          gradle build --no-daemon
 
       - name: Upload jar as artifact
         uses: actions/upload-artifact@v4
